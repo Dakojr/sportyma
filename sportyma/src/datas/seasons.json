@@ -1,0 +1,17 @@
+[
+  {
+    "id": 10,
+    "begin_year": 2019,
+    "end_year": 2020
+  },
+  {
+    "id": 11,
+    "begin_year": 2020,
+    "end_year": 2021
+  },
+  {
+    "id": 12,
+    "begin_year": 2021,
+    "end_year": 2022
+  }
+]

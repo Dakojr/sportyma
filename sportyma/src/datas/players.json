@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "FRINOT",
+    "firstname": "Xavier",
+    "seasons": [
+      {
+        "id": 10,
+        "clubs": ["FCB", "PSG"]
+      },
+      {
+        "id": 11,
+        "clubs": ["FCB", "PSG"]
+      },
+      {
+        "id": 12,
+        "clubs": ["FCB"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "FRINOT_2",
+    "firstname": "Xavier_2",
+    "seasons": [
+      {
+        "id": 10,
+        "clubs": ["FCB"]
+      },
+      {
+        "id": 11,
+        "clubs": ["FCB"]
+      },
+      {
+        "id": 12,
+        "clubs": ["FBM", "FCB"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "FRINOT_3",
+    "firstname": "Xavier_3",
+    "seasons": [
+      {
+        "id": 10,
+        "clubs": ["FBM"]
+      },
+      {
+        "id": 11,
+        "clubs": ["FBM"]
+      },
+      {
+        "id": 12,
+        "clubs": ["PSG", "FCB"]
+      }
+    ]
+  }
+]
